@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+.bg {
+    background-color: #f8f9fa;
+    background-image: url('https://www.transparenttextures.com/patterns/brick-wall.png');
+}
+
+* {
+    font-family: 'Quicksand', sans-serif;
+}
