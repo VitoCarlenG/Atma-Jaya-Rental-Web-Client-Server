@@ -5,7 +5,7 @@
     $host="localhost";
     $user="root";
     $pass="";
-    $name="ajr_0181";
+    $name="ajr";
 
     $con=mysqli_connect($host,$user,$pass,$name);
 
